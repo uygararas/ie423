@@ -4,8 +4,7 @@ This repository contains the notebooks created by Uygar Aras for the course task
 
 ### Notebooks
 1. **Task Notebooks:** Weekly tasks based on prior knowledge.
-2. **Activity Notebooks:** Data analysis questions designed to improve specific skills.
-3. **Hackathon Notebook:** Group project using in-house or external client data, culminating in a final demonstration.
+2. **Hackathon Notebook:** Group project using in-house or external client data, culminating in a final demonstration.
 
 ### How to Use
 - Clone the repository to your local machine or use Google Colab to open the notebooks directly.
