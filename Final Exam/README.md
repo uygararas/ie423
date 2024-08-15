@@ -2,7 +2,7 @@
 
 ## Overview
 
-This notgebook analyzes the **Online Shoppers Intention** dataset to predict whether a visitor will make a purchase. The analysis includes data exploration, feature engineering, and the application of multiple machine learning models to find the best predictor for customer purchasing behavior. This notebook is the Final Exam of the Course IE-423
+This notgebook analyzes the **Online Shoppers Intention** dataset to predict whether a visitor will make a purchase. The analysis includes data exploration, feature engineering, and the application of multiple machine learning models to find the best predictor for customer purchasing behavior. This notebook is the Final Exam of the Course IE-423.
 
 ## Objectives
 
