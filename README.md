@@ -22,7 +22,6 @@ Each notebook within this repository comes with its own detailed README file. Th
 - **Methodologies**: A description of the forecasting methods and techniques applied in the analysis.
 - **Results and Achievements**: Key outcomes and findings from the notebook.
 - **Why It Matters**: The results' significance in forecasting and real-world applications.
-- **Next Steps**: Suggestions for further analysis or improvements.
 
 ## Purpose
 
